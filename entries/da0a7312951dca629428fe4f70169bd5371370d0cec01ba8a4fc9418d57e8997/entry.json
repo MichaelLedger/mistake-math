@@ -1,0 +1,33 @@
+{
+  "answerText" : "D",
+  "clips" : [
+    {
+      "file" : "q0.jpg",
+      "ocrText" : "下列实数中，是无理数的是（）\nA.（\\sqrt（4））\nB. （\\frac｛22｝｛7｝）\nC.（\\pi）\nD.（0.1010010001）（毎两个1之间依次多一个0）",
+      "role" : "question"
+    }
+  ],
+  "errorReasons" : [
+
+  ],
+  "grade" : {
+    "id" : "grade.junior.2",
+    "title" : "初中2年级"
+  },
+  "gradeBranch" : "junior-2",
+  "id" : "da0a7312951dca629428fe4f70169bd5371370d0cec01ba8a4fc9418d57e8997",
+  "providerEmail" : "xdsjsk@icloud.com",
+  "providerNickname" : "MountainX",
+  "questionText" : "下列实数中，是无理数的是（）\nA.（\\sqrt（4））\nB. （\\frac｛22｝｛7｝）\nC.（\\pi）\nD.（0.1010010001）（毎两个1之间依次多一个0）",
+  "repository" : "mistake-math",
+  "schemaVersion" : 4,
+  "source" : {
+    "id" : "source.workbook",
+    "title" : "教辅"
+  },
+  "subject" : {
+    "id" : "subject.math",
+    "title" : "数学"
+  },
+  "subjectBranch" : "subject.math"
+}
